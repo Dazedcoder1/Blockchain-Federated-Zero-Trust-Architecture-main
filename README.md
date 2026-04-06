@@ -1,4 +1,4 @@
-# Mahdi Almutairi - Blockchain-Federated-Zero-Trust-Architecture
+# Blockchain-Federated-Zero-Trust-Architecture
 Blockchain Federated Zero Trust Architecture – Experiments and Results
 
 This repository contains the implementation, experiments, and results of the proposed
